@@ -6,11 +6,6 @@ plugins {
 
 group = 'com.github.matheusdrade'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '11'
-
-apply plugin: 'java'
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
 
 repositories {
 	mavenCentral()
